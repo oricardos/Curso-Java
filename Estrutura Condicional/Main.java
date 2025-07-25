@@ -122,7 +122,7 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 //TODO CONTINUAR
-        System.out.println("Teste de commit");
+        System.out.println("Teste de commit 2");
 
         sc.close();
     }
