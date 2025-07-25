@@ -25,7 +25,7 @@ public class Main {
 //        -------------------------------------------------------------------------------------------------------------
 //        AULA ENTRADA DE DADOS
         Locale.setDefault(Locale.US); // PARA DOUBLE
-        Scanner sc = new Scanner(System.in);
+//        Scanner sc = new Scanner(System.in);
 //        DOUBLE ----------------
 //        double x;
 //        x = sc.nextDouble();
